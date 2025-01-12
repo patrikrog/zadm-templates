@@ -5,7 +5,7 @@ autoboot="false"
 brand="bhyve"
 
 # CHANGME
-cdrom="/rpool/zone-data/debian-12.7.0-amd64-netinst.iso"
+cdrom="/zones/install/"
 
 ram="1G"
 vcpus="2"
